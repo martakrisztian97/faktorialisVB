@@ -1,1 +1,1 @@
-# Faktoriálist számító program konzolosan Visaul Basic nyelven.
+# Faktoriális kalkulátor konzolosan Visaul Basic nyelven.
